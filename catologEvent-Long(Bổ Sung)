@@ -1,1 +1,11 @@
- { id: '1', image: '/statics/anh5.jpg', Name_event: 'The Player', Payment_type: 'Free', startDate: '12/12(date)',endDate: '13/12(date)'}
+  {"event":
+        {
+          "id": 1,
+          "image": "/statics/image/anh5.jpg",
+          "Name_event": "The Player",
+          "Payment_type": "Free",
+          "startDate": "12/12(moday)",
+          "endDate": "13/12(sunday)"
+        }
+   }
+        
