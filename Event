@@ -1,0 +1,23 @@
+{
+  "event" : {
+              "name": "<Seoul> Success Core 5th Core 5th Core",
+              "place": "Seoul",
+              "lecturer": "Mark Zuckerberg",
+              "personnel": 50,
+              "startTime": "2020-10-30 08:30",
+              "endTime": "2020-10-30 11:30",
+              "expiredRegTime": "2020-09-28 23:59",
+              "price": 15000,
+              "haveAddInfor": "yes",
+              "addInfor": [
+                            "Question 1", 
+                            "Question 2", 
+                            "Question n"
+                          ],
+              "description": "This is a new event",
+              "photoEvent": "/static/img/event/Event.jpg",
+              "photoHowToReg": "/static/img/event/HowToReg.jpg",
+              "photoAttGuide": "/static/img/event/AttGuide.jpg",
+              "photoLecInf": "/static/img/event/LecInf.jpg"
+            }
+}
