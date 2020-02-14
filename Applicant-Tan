@@ -1,0 +1,22 @@
+{
+  "applicant":     {
+                      "id": 1,
+                      "name": "Mark Zuckerberg",
+                      "email": "example@gmail.com",
+                      "phone": "0123456789",
+                      "belongs": "The Player',
+                      "appliedDate': "2020-01-01 08:30",
+                      "state": "Applied",
+                      "NumOfTicket": 5,
+                      "addInfors": [
+                                      { "question": "How old are you?", "isRequired": true, "answer": "18" },
+                                   ],
+                      "surveys":  [
+                                      {
+                                        "queSurvey": "Your satisfaction level?", 
+                                        "selections": ["good", "normal", "bad"], 
+                                        "selected": "bad"
+                                      }
+                                  ]
+                  }
+ }
