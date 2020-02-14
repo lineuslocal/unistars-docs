@@ -2,26 +2,27 @@
 {
   "event" : {
               "id": 1,
-              "name":               "<Seoul> Success Core 5th Core 5th Core",
+              "title":               "<Seoul> Success Core 5th Core 5th Core",
               "place":              "Seoul",
               "lecturer":           "Mark Zuckerberg",
               "maxParticipant":     50,
               "currentParticipant": 30,
               "startTime":          "2020-10-14 08:30",
               "endTime":            "2020-10-14 11:30",
-              "starRegTime":        "2020-09-14 00:00",
               "endRegTime":         "2020-09-28 23:59",
-              "price":              15000,
               "addInfor":           [
                                       { "question": "How old are you?", "isRequired": true },
                                       { "question": "How long do you spend to exercise in every weekend?", "isRequired": true },
                                       { "question": "what is your weight?", "isRequired": true }
+                                    ],
+               "surveys":           [
+                                      { queSurvey: "Your satisfaction level?", selections: ["good", "normal", "bad"]  },
                                     ],
               "description":        "This is a new event",
               "photoEvent":         "/static/img/event/Event.jpg",
               "photoHowToReg":      "/static/img/event/HowToReg.jpg",
               "photoAttGuide":      "/static/img/event/AttGuide.jpg",
               "photoLecInf":        "/static/img/event/LecInf.jpg"
-              "createdTime":        "2020-08-28 23:59",
+              "createDate":        "2020-08-28 23:59",
             }
 }
