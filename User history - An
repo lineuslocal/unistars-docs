@@ -1,3 +1,40 @@
 {
-"History":{"id":"1" "idUser":"1", "name":"An", "eventName":"Festival Spring", "eventAddress":"Pandora - HCM", "eventImg":"img1", "startDate":"01-01-2020 09:00", "endDate":"02-01-2020 12:30","status":"Accept"}
+    history: [{
+        id: 1,
+        idUser: 1,
+        userName: "An",
+        eventName: "<Seoul> Success Core 5th Core 5th Core",
+        eventAddress: "Seoul",
+        eventImg: "https://www.chinashoreexcursion.com/wp-content/uploads/China-New-Year-Spring-Festival-in-China-2020.jpg",
+        startDate: "02-01-2020 12:30",
+        endDate: "02-01-2020 12:30",
+        addInfor: [{
+            question: "How old are you?",
+            isRequired: true,
+            answer: "18"
+          },
+          {
+            question: "How long do you spend to exercise in every weekend?",
+            isRequired: false,
+            answer: "30 minutes"
+          },
+          {
+            question: "what is your weight?",
+            isRequired: true,
+            answer: "100 kgs"
+          },
+        ],
+        survey: [{
+            "queSurvey": "How do you think about the event?",
+            "selections": ["good", "normal", "bad"],
+            "selected": "Good"
+          },
+          {
+            "queSurvey": "Your satisfaction level?",
+            "selections": ["good", "normal", "bad"],
+            "selected": "bad"
+          }
+        ],
+        status: "Missed"
+      }]
 }
