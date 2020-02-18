@@ -5,7 +5,7 @@
         userName: "An",
         eventName: "<Seoul> Success Core 5th Core 5th Core",
         eventAddress: "Seoul",
-        eventImg: "https://www.chinashoreexcursion.com/wp-content/uploads/China-New-Year-Spring-Festival-in-China-2020.jpg",
+        eventImg: "/statics/img/event.jpg",
         startDate: "02-01-2020 12:30",
         endDate: "02-01-2020 12:30",
         addInfor: [{
